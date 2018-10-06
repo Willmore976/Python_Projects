@@ -1,0 +1,6 @@
+Customer Name: John
+Size: Medium
+      Sausage
+Card: Master Card
+Time: 10/05/18 06:24 PM
+========================================================
